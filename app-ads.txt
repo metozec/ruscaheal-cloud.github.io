@@ -1,0 +1,2 @@
+# TODO(임시): AdMob 퍼블리셔 ID를 받으면 아래 줄의 주석을 풀고 pub-XXXXXXXXXXXXXXXX를 실제 값으로 바꾸세요.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
